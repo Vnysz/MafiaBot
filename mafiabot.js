@@ -31,6 +31,7 @@
         clearInterval(basicBot.room.autodisableInterval);
         clearInterval(basicBot.room.afkInterval);
         clearInterval(basicBot.room.autorouletteInterval);
+        clearInterval(basicBot.room.autodiscordInterval);
         basicBot.status = false;
     };
 
@@ -251,7 +252,7 @@
         status: false,
         name: '⚔ 𝔊𝔦𝔲𝔰𝔢𝔭𝔭𝔢 ⚔',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://rawgit.com/Vnysz/MafiaBot/master/mafiabot.js',
         cmdLink: 'https://rawgit.com/Vnysz/MafiaBot/master/comandos.md',
         chatLink: 'https://rawgit.com/Vnysz/MafiaBot/master/pt-BR.json',
         chat: null,
@@ -262,7 +263,7 @@
             botName: 'Mafioso',
             language: 'portuguese',
             chatLink: 'https://rawgit.com/Vnysz/MafiaBot/master/pt-BR.json',
-            scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+            scriptLink: 'https://rawgit.com/Vnysz/MafiaBot/master/mafiabot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100

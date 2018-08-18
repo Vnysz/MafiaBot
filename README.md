@@ -7,7 +7,7 @@
 Bookmark the following code. To run the bot, click the bookmark.
 
 ```
-javascript:(function(){$.getScript('https://rawgit.com/basicBot/source/master/basicBot.js');})();
+javascript:(function(){$.getScript('https://rawgit.com/Vnysz/MafiaBot/master/mafiabot.js');})();
 ```
 
 

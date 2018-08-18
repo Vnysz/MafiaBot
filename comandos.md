@@ -93,6 +93,7 @@ Usuários
 |*!gif*/ *!giphy* | *tag* | Retorna um gif (do giphy) relacionado a tag fornecida. Retorna uma gif aleatória se nenhuma tag é especificada. |
 |*~~!help~~* | | ~~Dá link de uma imagem para ajudar o usuário que ingressou no plug~~|
 |*!join* | | Juntar-se na roleta |
+|*!kiss* | *@user* | | Beija um usuário |
 |*!leave* | | Deixar da roleta |
 |*!link* | | Quando usuário é o Dj, dá um link para a música atual |
 |*!op* | | Link para a lista de músicas mais tocadas |

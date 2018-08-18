@@ -1,6 +1,7 @@
 # MafiaBot
 
 | Comandos |
+
 *X* Especifica um número.  
 Comandos que estiverem ~~exemplo~~ estão indisponíveis.
 

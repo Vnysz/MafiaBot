@@ -101,5 +101,4 @@ Usuários
 |*!rules* | | Dá link das regras em inglês |
 |*!theme* / *!tema* | | Dá informação do tema da sala |
 |*!thor | | Usuário é movido a posição 1 na lista de espera se ele for digno do martelo de Thor, caso contrário será movido para último lugar na lista de espera|
-|*~~!website~~* | | ~~Dá link para o website da sala~~ |
-|*~~!youtube~~* | | ~~Dá link do canal no youtube da sala~~ |
+|*!website* | | Dá link para o website |

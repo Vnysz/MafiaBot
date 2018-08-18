@@ -19,7 +19,7 @@ Estes podem ser encontrados em [Lista de Comandos](commandos.md).
 
 | Developers |
 |:----------:|
-| [![Burkyst](https://imgur.com/3Vg8H1T.png)](https://github.com/Burkyst) |  | [![Purpp](https://imgur.com/NFKeZCb.png)](https://github.com/Vnysz) |
-| **[Burkyst](https://github.com/Burkyst)** |  | **[Purpp](https://github.com/Vnysz)** |
-
-
+| [![Burkyst](https://imgur.com/3Vg8H1T.png)](https://github.com/Burkyst) |  
+| **[Burkyst](https://github.com/Burkyst)** |
+| [![Purpp](https://imgur.com/uZxslSx.png)](https://github.com/Vnysz) |
+| **[Purpp](https://github.com/Vnysz)** |

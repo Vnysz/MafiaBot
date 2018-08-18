@@ -255,7 +255,7 @@
         status: false,
         name: '⚔ 𝔊𝔦𝔲𝔰𝔢𝔭𝔭𝔢 ⚔',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/Kenan-plugdj/idk/master/CMBot.js',
+        scriptLink: 'https://rawgit.com/Vnysz/MafiaBot/master/mafioso.js',
         cmdLink: 'https://rawgit.com/Vnysz/MafiaBot/master/comandos.md',
         chatLink: 'https://rawgit.com/Vnysz/MafiaBot/master/lang/pt-br.json',
         chat: null,
@@ -266,7 +266,7 @@
             botName: 'MafiaBot',
             language: 'portuguese',
             chatLink: 'https://rawgit.com/Vnysz/MafiaBot/master/lang/pt-br.json',
-            scriptLink: 'https://rawgit.com/Kenan-plugdj/idk/master/CMBot.js',
+            scriptLink: 'https://rawgit.com/Vnysz/MafiaBot/master/mafioso.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 100, // 0-100

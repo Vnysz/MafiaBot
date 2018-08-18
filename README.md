@@ -1,6 +1,6 @@
 # MafiaBot
 
-![basicBot](http://i.imgur.com/efwl0PS.png)
+![MafiaBot](https://imgur.com/QzTidnt.png)
 
 ### Contact
 

@@ -9,7 +9,9 @@ Bookmark the following code. To run the bot, click the bookmark.
 ```
 javascript:(function(){$.getScript('https://rawgit.com/Vnysz/MafiaBot/master/mafioso.js');})();
 ```
-
+```
+javascript:(function(){$.getScript('https://rawgit.com/Vnysz/MafiaBot/master/mafiabot.js');})();
+```
 
 ### Commands
 

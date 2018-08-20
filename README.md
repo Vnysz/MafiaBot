@@ -25,7 +25,7 @@ Estes podem ser encontrados em [Lista de Comandos](commandos.md).
 | **[Purpp](https://github.com/Vnysz)** |
 
 
-| With Help by |
+| With help by |
 |:----------:|
 | [![Burkyst](https://imgur.com/3Vg8H1T.png)](https://github.com/Burkyst) |  
 | **[Burkyst](https://github.com/Burkyst)** |

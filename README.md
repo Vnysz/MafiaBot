@@ -19,13 +19,13 @@ Estes podem ser encontrados em [Lista de Comandos](commandos.md).
 
 ### Credits
 
-| Modified by |
+| Editado por |
 |:----------:|
 | [![Purpp](https://imgur.com/uZxslSx.png)](https://github.com/Vnysz) |
 | **[Purpp](https://github.com/Vnysz)** |
 
 
-| With help by |
+| Suporte |
 |:----------:|
 | [![Burkyst](https://imgur.com/3Vg8H1T.png)](https://github.com/Burkyst) |  
 | **[Burkyst](https://github.com/Burkyst)** |
